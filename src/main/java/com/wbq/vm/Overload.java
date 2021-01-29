@@ -7,6 +7,8 @@ import java.io.Serializable;
  * 工程：JvmDemo
  * 作者: wangbq
  * 时间:  2021-01-29 下午4:03
+ *
+ * @description 静态分派
  */
 public class Overload {
     //此方法执行后，则执行char...args,数组参数
