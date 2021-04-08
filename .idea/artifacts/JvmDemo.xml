@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JvmDemo">
+    <output-path>$PROJECT_DIR$/../apache-tomcat-8.5/webapps</output-path>
+    <root id="root" />
+  </artifact>
+</component>
